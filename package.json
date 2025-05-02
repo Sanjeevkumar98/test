@@ -1,0 +1,13 @@
+{
+    "name": "codepipeline-test",
+    "version": "1.0.0",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js",
+      "test": "echo \"Running tests...\" && exit 0",
+      "build": "echo \"Building...\""
+    },
+    "dependencies": {
+      "express": "^4.17.1"
+    }
+  }
